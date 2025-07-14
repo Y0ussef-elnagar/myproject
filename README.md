@@ -1,2 +1,1 @@
-# myproject
-this test repo
+# mini python projects
