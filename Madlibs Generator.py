@@ -27,4 +27,4 @@ for word in words:
 
 
 print(story)
-commit
+
